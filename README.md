@@ -1,2 +1,2 @@
 # laughing-parakeet
-2D Game Assignment - Using COCOS2d
+2D Orc Game - Using COCOS2d
